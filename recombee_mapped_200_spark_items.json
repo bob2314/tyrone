@@ -1,7 +1,7 @@
 [
   {
     "data": {
-      "results": [
+      "articles": [
         {
           "meta_description": "",
           "meta_title": "",
@@ -57099,7 +57099,7 @@
   },
   {
     "data": {
-      "results": [
+      "videos": [
         {
           "ads": {
             "enabled": true,
