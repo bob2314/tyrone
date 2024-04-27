@@ -1,0 +1,1029 @@
+[
+  {
+    "data": {
+      "request": {
+        "type": "/fts/prod/articles",
+        "contentType": "articles",
+        "internal": false,
+        "platform": "web",
+        "params": "{\"size\":\"2\"}",
+        "pathParams": { "proxy": "articles" }
+      },
+      "status": { "success": true, "code": 200 },
+      "existing_total": 104132,
+      "results": [
+        {
+          "component_type": "news_article",
+          "meta_description": "",
+          "meta_title": "",
+          "fn__distribution_platforms": {
+            "google_news": {
+              "amp": true,
+              "live_coverage": false,
+              "standout": false
+            },
+            "android": { "enabled": false },
+            "apple_news": { "enabled": false, "notification_dates": [] },
+            "automated_alerts": { "enabled": false },
+            "facebook_news": { "suppress": false, "opinion": false },
+            "facebook_instant_articles": { "enabled": true },
+            "ios": { "enabled": false },
+            "search_engines": { "enabled": false },
+            "distribution_true_anthem": { "enabled": true },
+            "distribution_yahoo": { "enabled": true },
+            "distribution_msn": { "enabled": true },
+            "distribution_smart_news": { "enabled": false },
+            "distribution_flipboard": { "enabled": false },
+            "distribution_snapchat": { "enabled": false },
+            "distribution_newsbreak": { "enabled": false },
+            "wire_override": false,
+            "web": { "enabled": true }
+          },
+          "distribution_site_search": false,
+          "thumbnail": {
+            "content": {
+              "alt": "",
+              "caption": "FILE - A sign for vegan food in the window of a cafe. (Photo by Mike Kemp/In Pictures via Getty Images)",
+              "title": "GettyImages-1239645054.jpg",
+              "copyright": "",
+              "url": "https://static.foxla.com/www.foxla.com/content/uploads/2024/04/GettyImages-1239645054.jpg",
+              "source": [],
+              "wp__origin": {
+                "post_id": 760474,
+                "blog_id": 1,
+                "environment": "production",
+                "post_type": "attachment",
+                "site": "cms.foxla.com",
+                "source": "tiger-cms"
+              }
+            },
+            "content_type": "image",
+            "uuidv5": "0091a4ae-ac79-5b1a-9efb-7b98f4cf6358",
+            "url": "https://static.foxla.com/www.foxla.com/content/uploads/2024/04/GettyImages-1239645054.jpg"
+          },
+          "fn__image": {
+            "content": {
+              "alt": "",
+              "caption": "FILE - A sign for vegan food in the window of a cafe. (Photo by Mike Kemp/In Pictures via Getty Images)",
+              "title": "GettyImages-1239645054.jpg",
+              "copyright": "",
+              "url": "https://static.foxla.com/www.foxla.com/content/uploads/2024/04/GettyImages-1239645054.jpg",
+              "source": [],
+              "wp__origin": {
+                "post_id": 760474,
+                "blog_id": 1,
+                "environment": "production",
+                "post_type": "attachment",
+                "site": "cms.foxla.com",
+                "source": "tiger-cms"
+              }
+            },
+            "content_type": "image",
+            "uuidv5": "0091a4ae-ac79-5b1a-9efb-7b98f4cf6358",
+            "url": "https://static.foxla.com/www.foxla.com/content/uploads/2024/04/GettyImages-1239645054.jpg"
+          },
+          "social_image": {
+            "content": {
+              "alt": "",
+              "caption": "FILE - A sign for vegan food in the window of a cafe. (Photo by Mike Kemp/In Pictures via Getty Images)",
+              "title": "GettyImages-1239645054.jpg",
+              "copyright": "",
+              "url": "https://static.foxla.com/www.foxla.com/content/uploads/2024/04/GettyImages-1239645054.jpg",
+              "source": [],
+              "wp__origin": {
+                "post_id": 760474,
+                "blog_id": 1,
+                "environment": "production",
+                "post_type": "attachment",
+                "site": "cms.foxla.com",
+                "source": "tiger-cms"
+              }
+            },
+            "content_type": "image",
+            "uuidv5": "0091a4ae-ac79-5b1a-9efb-7b98f4cf6358",
+            "url": "https://static.foxla.com/www.foxla.com/content/uploads/2024/04/GettyImages-1239645054.jpg"
+          },
+          "fox_bet": false,
+          "full_span_image": null,
+          "livefyre__": { "storify": false },
+          "local_tags": [
+            {
+              "spark_id": "a2d10b83-d810-5068-abc8-4b8a2131ad08",
+              "uuidv5": "a2d10b83-d810-5068-abc8-4b8a2131ad08",
+              "title": "Restaurants",
+              "slug": "restaurants",
+              "path": "fts/lifestyle/food-drink/restaurants",
+              "isa_value": "",
+              "type": "",
+              "tag_type": "",
+              "external_uri": "",
+              "external_id": ""
+            },
+            {
+              "spark_id": "dd4d37f2-f0b8-54b2-b4af-9aed06939bd8",
+              "uuidv5": "dd4d37f2-f0b8-54b2-b4af-9aed06939bd8",
+              "title": "Food and Drink",
+              "slug": "food-drink",
+              "path": "fts/lifestyle/food-drink",
+              "isa_value": "",
+              "type": "",
+              "tag_type": "",
+              "external_uri": "",
+              "external_id": ""
+            },
+            {
+              "spark_id": "8c00d2b2-855c-5fec-9be5-955e77d3d638",
+              "uuidv5": "8c00d2b2-855c-5fec-9be5-955e77d3d638",
+              "title": "Environment",
+              "slug": "environment",
+              "path": "fts/environment",
+              "isa_value": "environment",
+              "type": "spark_tags",
+              "tag_type": "keyword",
+              "external_uri": "",
+              "external_id": ""
+            },
+            {
+              "spark_id": "8d52802d-5545-5efe-af94-81d9361d899f",
+              "uuidv5": "8d52802d-5545-5efe-af94-81d9361d899f",
+              "title": "Instastories",
+              "slug": "instastories",
+              "path": "fts/series/instastories",
+              "isa_value": "",
+              "type": "",
+              "tag_type": "",
+              "external_uri": "",
+              "external_id": ""
+            }
+          ],
+          "pill": "",
+          "prevent_gating": false,
+          "fn__contributors": [],
+          "share": [
+            "WAGA",
+            "KTBC",
+            "WFLD",
+            "KDFW",
+            "WJBK",
+            "WOGX",
+            "KRIV",
+            "KTTV",
+            "WITI",
+            "KMSP",
+            "WWOR",
+            "WNYW",
+            "WOFL",
+            "WTXF",
+            "KSAZ",
+            "KTVU",
+            "KCPQ",
+            "WTVT",
+            "WTTG",
+            "CORO"
+          ],
+          "shared_category": [],
+          "wp__shared_category": null,
+          "shared_tags": [],
+          "wp__shared_tags": [],
+          "short_title": "Leading vegan restaurant now serving meat, says plant-based eating isn't enough to save planet",
+          "show_advertisements": false,
+          "spark_persons": [],
+          "spark_shows": [],
+          "starts_with_dropcap": false,
+          "spotim": { "event_code": "", "id": "" },
+          "stock_tickers": "",
+          "storycard_description": "",
+          "storycard_image": null,
+          "storycard_image_format": "",
+          "storycard_tag": [],
+          "storycard_title": "Leading vegan restaurant now serving meat, says plant-based eating isn't enough to save planet",
+          "sync_description": false,
+          "sync_image": false,
+          "branding": {
+            "fn__disclaimer": "",
+            "fn__indicator": "",
+            "fn__campaign_id": "",
+            "fn__sponsor_logo": null,
+            "fn__sponsor_name": "",
+            "advertorial": false
+          },
+          "fn__breaking_news": false,
+          "fn__sections": [
+            {
+              "uuidv5": "66f5255e-1ecd-5b30-acd6-755863f5988e",
+              "path": "fts/news",
+              "isa_value": "news"
+            }
+          ],
+          "wp__category": {
+            "title": "News",
+            "slug": "news",
+            "uuidv5": "66f5255e-1ecd-5b30-acd6-755863f5988e",
+            "path": "fts/news",
+            "isa_value": "news"
+          },
+          "fn__shows": [],
+          "comments": { "enabled": true },
+          "foxid": { "enabled": false },
+          "dateline": "",
+          "dek": "An L.A. vegan restaurant is changing its menu to include “regenerative\" farming products, such as meat, dairy and eggs. “I realized that animal integration is crucial,\" the owner said.",
+          "fn__section_description": "",
+          "social_description": "",
+          "fn__external_feeds_title": "Leading vegan restaurant now serving meat, says plant-based eating isn't enough to save planet",
+          "fn__featured": false,
+          "fn__footer": "",
+          "fn__app_title": "Leading vegan restaurant now serving meat, says plant-based eating isn't enough to save planet",
+          "fn__apple_news_title": "Leading vegan restaurant now serving meat, says plant-based eating isn't enough to save planet",
+          "export_headline": "",
+          "fn__fbia_title": "Leading vegan restaurant now serving meat, says plant-based eating isn't enough to save planet",
+          "fn__section_title": "Leading vegan restaurant now serving meat, says plant-based eating isn't enough to save planet",
+          "social_title": "Leading vegan restaurant now serving meat, says plant-based eating isn't enough to save planet",
+          "slug": "regenerative-agriculture-farming-restaurants-menu-vegan-sage-bistro",
+          "fn__sources": [
+            {
+              "uuidv5": "dbc1ceca-019d-5d99-8177-d87b55b074bd",
+              "fn__type": "sources",
+              "label": "FOX TV Digital Team",
+              "slug": "fox-tv-digital-team",
+              "url": "https://www.livenowfox.com",
+              "canonical_url": "foxla.com/source/fox-tv-digital-team",
+              "wp__origin": {
+                "source": "tiger-cms",
+                "site": "cms.foxla.com",
+                "environment": "production",
+                "blog_id": 1,
+                "post_id": 320531,
+                "post_type": "source"
+              }
+            }
+          ],
+          "standfirst": "",
+          "fn__tags": [
+            {
+              "spark_id": "a2d10b83-d810-5068-abc8-4b8a2131ad08",
+              "uuidv5": "a2d10b83-d810-5068-abc8-4b8a2131ad08",
+              "title": "Restaurants",
+              "slug": "restaurants",
+              "path": "fts/lifestyle/food-drink/restaurants",
+              "isa_value": "",
+              "type": "",
+              "tag_type": "",
+              "external_uri": "",
+              "external_id": ""
+            },
+            {
+              "spark_id": "dd4d37f2-f0b8-54b2-b4af-9aed06939bd8",
+              "uuidv5": "dd4d37f2-f0b8-54b2-b4af-9aed06939bd8",
+              "title": "Food and Drink",
+              "slug": "food-drink",
+              "path": "fts/lifestyle/food-drink",
+              "isa_value": "",
+              "type": "",
+              "tag_type": "",
+              "external_uri": "",
+              "external_id": ""
+            },
+            {
+              "spark_id": "8c00d2b2-855c-5fec-9be5-955e77d3d638",
+              "uuidv5": "8c00d2b2-855c-5fec-9be5-955e77d3d638",
+              "title": "Environment",
+              "slug": "environment",
+              "path": "fts/environment",
+              "isa_value": "environment",
+              "type": "spark_tags",
+              "tag_type": "keyword",
+              "external_uri": "",
+              "external_id": ""
+            },
+            {
+              "spark_id": "8d52802d-5545-5efe-af94-81d9361d899f",
+              "uuidv5": "8d52802d-5545-5efe-af94-81d9361d899f",
+              "title": "Instastories",
+              "slug": "instastories",
+              "path": "fts/series/instastories",
+              "isa_value": "",
+              "type": "",
+              "tag_type": "",
+              "external_uri": "",
+              "external_id": ""
+            }
+          ],
+          "wp__tags": [],
+          "tags": [],
+          "fn__legacy_type": "article",
+          "fn__story_type": "Digital Original",
+          "third_party_canonical_url": "",
+          "origination_station": "LNFX",
+          "original_post_canonical_url": "livenowfox.com/news/regenerative-agriculture-farming-restaurants-menu-vegan-sage-bistro",
+          "fn__additional_authors": ["Megan Ziegler"],
+          "shared_shows": [],
+          "vanity_urls": [],
+          "short_urls": [""],
+          "original_post": {
+            "original_post_id": "",
+            "original_post_uuidv5": "",
+            "original_post_share": "",
+            "original_external_post_type": ""
+          },
+          "urls": {
+            "url": "foxla.com/news/regenerative-agriculture-farming-restaurants-menu-vegan-sage-bistro",
+            "category": {
+              "slug": "news",
+              "spark_id": "66f5255e-1ecd-5b30-acd6-755863f5988e"
+            },
+            "slug": "regenerative-agriculture-farming-restaurants-menu-vegan-sage-bistro",
+            "original_publisher": "",
+            "original_url": "",
+            "original_publish_date": ""
+          },
+          "id": "d340cf50-09c1-578c-be35-f882494d6feb",
+          "spark_id": "d340cf50-09c1-578c-be35-f882494d6feb",
+          "uuidv5": "d340cf50-09c1-578c-be35-f882494d6feb",
+          "fn__type": "articles",
+          "last_modified_date": "2024-04-27T10:04:12-07:00",
+          "last_published_date": "2024-04-27T09:34:25-07:00",
+          "created_date": "2024-04-27T09:34:27-07:00",
+          "publication_date": "2024-04-27T09:34:25-07:00",
+          "origination_modified_date": "2024-04-27T09:35:46-07:00",
+          "wp__origin": {
+            "source": "tiger-cms",
+            "site": "cms.foxla.com",
+            "environment": "production",
+            "blog_id": 1,
+            "post_id": 760475,
+            "post_type": "shared_post",
+            "post_status": "publish"
+          },
+          "post_status": "publish",
+          "published": true,
+          "articleId": "d340cf50-09c1-578c-be35-f882494d6feb",
+          "components": [
+            {
+              "content": {
+                "anvato_id": "1395200",
+                "spark_id": "c6ac603c-fabb-5ec9-903b-dee280d77b41",
+                "media_url": "https://tkx.mp.lura.live/rest/v2/mcp/video/1395200.m3u8?anvack=ZmA9RVLdei8qNgC2qco9mrNHz69oK4qr&eud=KqC8yZLL8TYuq%2B6Ow6VsgfVm9ZzRKf6EdcQ50bXSxv2PIvVsffBdxjeJ0V1FxyHEyiiK9NWC9wr3eQXYw9pjZg%3D%3D",
+                "title": "Many choosing a vegan lifestyle for the New Year",
+                "description": "As many have made the New Year resolution of a heathier lifestyle, for some, that means putting the meat down for good. Vegan lifestyle Enthusiast, Brittanie jones, joined LiveNOW to explain what veganism is and how the lifestyle works.",
+                "url": "https://tkx.mp.lura.live/rest/v2/mcp/video/1395200.m3u8?anvack=ZmA9RVLdei8qNgC2qco9mrNHz69oK4qr&eud=KqC8yZLL8TYuq%2B6Ow6VsgfVm9ZzRKf6EdcQ50bXSxv2PIvVsffBdxjeJ0V1FxyHEyiiK9NWC9wr3eQXYw9pjZg%3D%3D",
+                "snapshot": "https://m107833-mcdn.mp.lura.live/iupl/151/645/15164509DE86B83F554E46B2B4FD87D2.jpg?Expires=2082758400&KeyName=mcpkey1&Signature=SMmonGvbcJSk8e1MTvUxZPDnxiY",
+                "alignment": "center",
+                "is_sponsored": "false",
+                "publication_date": "2024-01-13T16:57:51Z",
+                "air_date": "2024-01-13T16:57:51Z",
+                "ads": {
+                  "enabled": true,
+                  "preroll": true,
+                  "midroll": true,
+                  "postroll": true
+                },
+                "category": [],
+                "tags": []
+              },
+              "content_type": "akta_video"
+            },
+            {
+              "content": {
+                "alignment": "left",
+                "format": "html",
+                "text": "<p>Sage Vegan Bistro, one of the leading vegan restaurants in the country that’s based in southern California, shook the plant-based community this week with its announcement that it was changing its menu. </p>"
+              },
+              "content_type": "text"
+            },
+            {
+              "content": {
+                "alignment": "left",
+                "format": "html",
+                "text": "<p>Chef Mollie Engelhart said her restaurant will shift from its all-vegan focus to focus on \"regenerative farming,\" which will include serving <a href=\"https://www.livenowfox.com/tag/lifestyle/food-drink\"><u>meat, dairy and eggs</u></a>. </p>"
+              },
+              "content_type": "text"
+            },
+            {
+              "content": {
+                "alignment": "left",
+                "format": "html",
+                "text": "<p>Engelhart said the transition was a necessary one for her restaurant mission because of what she’s learned about regenerative farming over the last seven years. </p>"
+              },
+              "content_type": "text"
+            },
+            {
+              "content": {
+                "alignment": "left",
+                "format": "html",
+                "text": "<p>\"What I discovered is that most of the fruits and vegetables that we love are not \"vegan,\" they are fertilized with animal byproducts,\" <a href=\"https://www.sageveganbistro.com/open-letter\"><u>she wrote in an open letter</u></a>. </p>"
+              },
+              "content_type": "text"
+            },
+            {
+              "content": {
+                "alignment": "left",
+                "format": "html",
+                "text": "<p>She says she learned animal integration is \"crucial\" when it comes to restoring desertified soil and improving the quality of topsoil. </p>"
+              },
+              "content_type": "text"
+            },
+            {
+              "content": {
+                "alignment": "left",
+                "format": "html",
+                "text": "<p>\"As I continued farming, I realized what’s possible with the partnership of man and bovine on grass,\" she said. </p>"
+              },
+              "content_type": "text"
+            },
+            {
+              "content": {
+                "alignment": "left",
+                "format": "html",
+                "text": "<p><strong>RELATED: </strong><a href=\"https://www.livenowfox.com/news/food-alarmingly-high-level-pesticides-report\"><strong><u>This food has ‘alarmingly high’ level of pesticides, report finds</u></strong></a></p>"
+              },
+              "content_type": "text"
+            },
+            {
+              "content": {
+                "alignment": "left",
+                "format": "html",
+                "text": "<p>Engelhart, who said she’s been a vegan her whole life, said this was \"a really hard pill to swallow.\" </p>"
+              },
+              "content_type": "text"
+            },
+            {
+              "content": {
+                "alignment": "left",
+                "format": "html",
+                "text": "<p>\"I realized that what I had been promoting and committed to for all these years was not the best path forward. It was a path forward, but the reality of regenerative agriculture … made so much sense,\" she said <a href=\"https://www.instagram.com/p/C6JqcLRRUuV/\"><u>in a social media video</u></a> alongside Realfoodology podcast host Courtney Swan. </p>"
+              },
+              "content_type": "text"
+            },
+            {
+              "content": {
+                "alignment": "left",
+                "format": "html",
+                "text": "<p>\"In a town where everybody has vegan options at their restaurants, I want to offer regenerative options at what was my vegan restaurant,\" Engelhart added.</p>"
+              },
+              "content_type": "text"
+            },
+            {
+              "content": {
+                "alignment": "center",
+                "alt": "GettyImages-1239645054.jpg",
+                "title": "",
+                "caption": "FILE - A sign for vegan food in the window of a cafe. (Photo by Mike Kemp/In Pictures via Getty Images)",
+                "copyright": "",
+                "uuidv5": "0091a4ae-ac79-5b1a-9efb-7b98f4cf6358",
+                "url": "https://static.foxla.com/www.foxla.com/content/uploads/2024/04/GettyImages-1239645054.jpg",
+                "keep_natural_ratio": false,
+                "external_url": "",
+                "wp__origin": {
+                  "source": "tiger-cms",
+                  "site": "cms.foxla.com",
+                  "environment": "production",
+                  "blog_id": 1,
+                  "post_id": 760474,
+                  "post_type": "attachment"
+                }
+              },
+              "content_type": "image"
+            },
+            {
+              "content": {
+                "alignment": "left",
+                "format": "html",
+                "text": "<p>Engelhart knew her decision wouldn’t be popular with the plant-based community, which has been supporting her restaurant for the last 13 years. </p>"
+              },
+              "content_type": "text"
+            },
+            {
+              "content": {
+                "alignment": "left",
+                "format": "html",
+                "text": "<p><a href=\"https://www.instagram.com/p/C6EjVWZxKg-/\"><u>Her video on social media</u></a> – which was posted on Earth Day with the announcement – was flooded with negative and angry comments from people saying they were \"heartbroken\" and \"sick to their stomachs.\" </p>"
+              },
+              "content_type": "text"
+            },
+            {
+              "content": {
+                "alignment": "center",
+                "url": "https://www.instagram.com/p/C6EjVWZxKg-/",
+                "hide_caption": false
+              },
+              "content_type": "instagram_media"
+            },
+            {
+              "content": {
+                "alignment": "left",
+                "format": "html",
+                "text": "<p>Engelhart did <a href=\"https://www.latimes.com/food/story/2024-04-24/sage-vegan-bistro-no-longer-vegan-backlash?utm_source=flipboard&amp;utm_content=LATimes%2Fmagazine%2FEntertainment\"><u>speak with the Los Angeles Times</u></a> about the decision, and mentioned finances did play a role in her decision as well. </p>"
+              },
+              "content_type": "text"
+            },
+            {
+              "content": {
+                "alignment": "left",
+                "format": "html",
+                "text": "<p>According to Engelhart, who operates Sage with her husband, chef-owner Elias Sosa, in years past their restaurants would do $7 million in annual business – but they haven’t been profitable since 2020. </p>"
+              },
+              "content_type": "text"
+            },
+            {
+              "content": {
+                "alignment": "left",
+                "format": "html",
+                "text": "<p>\"I think that the next step forward is regenerative agriculture, and for that to move forward it needs to be in the zeitgeist, it needs to be in our everyday conversations. And this is my way to contribute to that, to give people options,\" <a href=\"https://www.latimes.com/food/story/2024-04-24/sage-vegan-bistro-no-longer-vegan-backlash?utm_source=flipboard&amp;utm_content=LATimes%2Fmagazine%2FEntertainment\"><u>she told the newspaper</u></a>. </p>"
+              },
+              "content_type": "text"
+            },
+            {
+              "content": {
+                "alignment": "left",
+                "format": "html",
+                "text": "<p>Her new menu starts May 29. </p>"
+              },
+              "content_type": "text"
+            },
+            {
+              "content": {
+                "alignment": "left",
+                "format": "html",
+                "text": "<p><strong>RELATED: </strong><a href=\"https://www.livenowfox.com/news/can-you-really-eat-cicadas-try-these-delicious-recipes-to-find-out\"><strong><u>Can you really eat cicadas? Try these delicious recipes to find out</u></strong></a></p>"
+              },
+              "content_type": "text"
+            },
+            {
+              "content": {
+                "format": "html",
+                "rank": 2,
+                "text": "What is regenerative agriculture?"
+              },
+              "content_type": "heading"
+            },
+            {
+              "content": {
+                "alignment": "left",
+                "format": "html",
+                "text": "<p>In theory, regenerative agriculture is a holistic way to look at the earth, animals, and water — and how they all interact.</p>"
+              },
+              "content_type": "text"
+            },
+            {
+              "content": {
+                "alignment": "left",
+                "format": "html",
+                "text": "<p>The main goal is to restore the soil and keep it thriving, which isn’t typically the case after prolonged use of chemical fertilizers and <a href=\"https://www.usda.gov/media/blog/2017/11/30/saving-money-time-and-soil-economics-no-till-farming\"><u>other conventional farming methods</u></a>.</p>"
+              },
+              "content_type": "text"
+            },
+            {
+              "content": {
+                "alignment": "left",
+                "format": "html",
+                "text": "<p>Strategies can include planting crops alongside trees, planting cover crops, rotating herds to different pastures and using fewer synthetic chemicals and fertilizers.</p>"
+              },
+              "content_type": "text"
+            },
+            {
+              "content": {
+                "alignment": "left",
+                "format": "html",
+                "text": "<p>With more complexity, much of regenerative agriculture also has to do with storing carbon.</p>"
+              },
+              "content_type": "text"
+            },
+            {
+              "content": {
+                "alignment": "left",
+                "format": "html",
+                "text": "<p>Last year, the U.S. Department of Agriculture <a href=\"https://apnews.com/article/farming-emissions-climate-agriculture-investment-bb3c3c69ea408414bc9a0b57f6c8cdec\"><u>invested $300 million</u></a> to begin monitoring carbon levels in soil.</p>"
+              },
+              "content_type": "text"
+            },
+            {
+              "content": {
+                "alignment": "left",
+                "format": "html",
+                "text": "<p><i>This story was reported from Detroit. The Associated Press contributed. </i></p>"
+              },
+              "content_type": "text"
+            }
+          ],
+          "title": "Leading vegan restaurant now serving meat, says plant-based eating isn't enough to save planet",
+          "canonical_url": "foxla.com/news/regenerative-agriculture-farming-restaurants-menu-vegan-sage-bistro",
+          "article_slug": "regenerative-agriculture-farming-restaurants-menu-vegan-sage-bistro",
+          "vanity_slugs": [],
+          "presentation_type": "article",
+          "fn__syndication_info": [],
+          "fn__stock_ticker_symbols": "",
+          "post_version": 3145728,
+          "content_type": "spark_post",
+          "fn__site_search": false,
+          "stocks": [],
+          "meta": {
+            "chartbeat": {
+              "title": "Leading vegan restaurant now serving meat, says plant-based eating isn't enough to save planet",
+              "viewID": "/news/regenerative-agriculture-farming-restaurants-menu-vegan-sage-bistro",
+              "section": "news",
+              "authors": []
+            },
+            "segment": {
+              "title": "Leading vegan restaurant now serving meat, says plant-based eating isn't enough to save planet",
+              "page_content_type": "articles",
+              "page_content_type_of_story": "Digital Original"
+            }
+          }
+        },
+        {
+          "component_type": "news_article",
+          "meta_description": "",
+          "meta_title": "",
+          "fn__distribution_platforms": {
+            "google_news": {
+              "amp": true,
+              "live_coverage": false,
+              "standout": false
+            },
+            "android": { "enabled": false },
+            "apple_news": { "enabled": false, "notification_dates": [] },
+            "automated_alerts": { "enabled": false },
+            "facebook_news": { "suppress": false, "opinion": false },
+            "facebook_instant_articles": { "enabled": true },
+            "ios": { "enabled": false },
+            "search_engines": { "enabled": false },
+            "distribution_true_anthem": { "enabled": true },
+            "distribution_yahoo": { "enabled": false },
+            "distribution_msn": { "enabled": false },
+            "distribution_smart_news": { "enabled": false },
+            "distribution_flipboard": { "enabled": false },
+            "distribution_snapchat": { "enabled": false },
+            "distribution_newsbreak": { "enabled": false },
+            "wire_override": false,
+            "web": { "enabled": true }
+          },
+          "distribution_site_search": false,
+          "thumbnail": {
+            "content": {
+              "alt": "",
+              "caption": "Police lights generic Minneapolis",
+              "url": "https://static.foxla.com/www.foxla.com/content/uploads/2024/03/5ea3abdb-283dde55-187d3fd0-police-lights-generic-minneapolis.jpg",
+              "wp__origin": {
+                "post_id": 749567,
+                "blog_id": 1,
+                "environment": "production",
+                "post_type": "attachment",
+                "site": "cms.foxla.com",
+                "source": "tiger-cms"
+              }
+            },
+            "content_type": "image",
+            "uuidv5": "a82b8183-53cc-5350-96c4-7aee226ede73",
+            "url": "https://static.foxla.com/www.foxla.com/content/uploads/2024/03/5ea3abdb-283dde55-187d3fd0-police-lights-generic-minneapolis.jpg"
+          },
+          "fn__image": {
+            "content": {
+              "alt": "",
+              "caption": "Police lights generic Minneapolis",
+              "url": "https://static.foxla.com/www.foxla.com/content/uploads/2024/03/5ea3abdb-283dde55-187d3fd0-police-lights-generic-minneapolis.jpg",
+              "wp__origin": {
+                "post_id": 749567,
+                "blog_id": 1,
+                "environment": "production",
+                "post_type": "attachment",
+                "site": "cms.foxla.com",
+                "source": "tiger-cms"
+              }
+            },
+            "content_type": "image",
+            "uuidv5": "a82b8183-53cc-5350-96c4-7aee226ede73",
+            "url": "https://static.foxla.com/www.foxla.com/content/uploads/2024/03/5ea3abdb-283dde55-187d3fd0-police-lights-generic-minneapolis.jpg"
+          },
+          "social_image": {
+            "content": {
+              "alt": "",
+              "caption": "Police lights generic Minneapolis",
+              "url": "https://static.foxla.com/www.foxla.com/content/uploads/2024/03/5ea3abdb-283dde55-187d3fd0-police-lights-generic-minneapolis.jpg",
+              "wp__origin": {
+                "post_id": 749567,
+                "blog_id": 1,
+                "environment": "production",
+                "post_type": "attachment",
+                "site": "cms.foxla.com",
+                "source": "tiger-cms"
+              }
+            },
+            "content_type": "image",
+            "uuidv5": "a82b8183-53cc-5350-96c4-7aee226ede73",
+            "url": "https://static.foxla.com/www.foxla.com/content/uploads/2024/03/5ea3abdb-283dde55-187d3fd0-police-lights-generic-minneapolis.jpg"
+          },
+          "fox_bet": false,
+          "full_span_image": null,
+          "livefyre__": { "storify": false },
+          "local_tags": [],
+          "pill": "",
+          "prevent_gating": false,
+          "fn__contributors": [],
+          "share": [],
+          "shared_category": [],
+          "wp__shared_category": null,
+          "shared_tags": [],
+          "wp__shared_tags": [],
+          "short_title": "Echo Park gang-related shooting leaves 1 injured, police say",
+          "show_advertisements": false,
+          "spark_persons": [],
+          "spark_shows": [],
+          "starts_with_dropcap": false,
+          "spotim": { "event_code": "", "id": "" },
+          "stock_tickers": "",
+          "storycard_description": "",
+          "storycard_image": null,
+          "storycard_image_format": "",
+          "storycard_tag": [],
+          "storycard_title": "Echo Park gang-related shooting leaves 1 injured, police say",
+          "sync_description": false,
+          "sync_image": false,
+          "branding": {
+            "fn__disclaimer": "",
+            "fn__indicator": "",
+            "fn__campaign_id": "",
+            "fn__sponsor_logo": null,
+            "fn__sponsor_name": "",
+            "advertorial": false
+          },
+          "fn__breaking_news": false,
+          "fn__sections": [
+            {
+              "uuidv5": "66f5255e-1ecd-5b30-acd6-755863f5988e",
+              "path": "fts/news",
+              "isa_value": "news"
+            }
+          ],
+          "wp__category": {
+            "title": "News",
+            "slug": "news",
+            "uuidv5": "66f5255e-1ecd-5b30-acd6-755863f5988e",
+            "path": "fts/news",
+            "isa_value": "news"
+          },
+          "fn__shows": [],
+          "comments": { "enabled": true },
+          "foxid": { "enabled": false },
+          "dateline": "",
+          "dek": "The shooting occurred Friday, just before 12 a.m., police said.",
+          "fn__section_description": "",
+          "social_description": "",
+          "fn__external_feeds_title": "Echo Park gang-related shooting leaves 1 injured, police say",
+          "fn__featured": false,
+          "fn__footer": "",
+          "fn__app_title": "Echo Park gang-related shooting leaves 1 injured, police say",
+          "fn__apple_news_title": "Echo Park gang-related shooting leaves 1 injured, police say",
+          "export_headline": "",
+          "fn__fbia_title": "Echo Park gang-related shooting leaves 1 injured, police say",
+          "fn__section_title": "Echo Park gang-related shooting leaves 1 injured, police say",
+          "social_title": "Echo Park gang-related shooting leaves 1 injured, police say",
+          "slug": "echo-park-shooting-april-26-2024",
+          "fn__sources": [
+            {
+              "uuidv5": "71dc5cd5-eda3-564b-b497-19fa8bbcdee7",
+              "fn__type": "sources",
+              "label": "City News Service",
+              "slug": "city-news-service",
+              "url": "http://www.foxla.com/",
+              "canonical_url": "foxla.com/source/city-news-service",
+              "wp__origin": {
+                "source": "tiger-cms",
+                "site": "cms.foxla.com",
+                "environment": "production",
+                "blog_id": 1,
+                "post_id": 865,
+                "post_type": "source"
+              }
+            }
+          ],
+          "standfirst": "",
+          "fn__tags": [
+            {
+              "spark_id": "37a9e60f-0ba3-51e7-aa79-0ca6b157989a",
+              "uuidv5": "37a9e60f-0ba3-51e7-aa79-0ca6b157989a",
+              "title": "Echo Park",
+              "slug": "echo-park",
+              "path": "fts/us/ca/los-angeles-county/la-los-angeles-county/echo-park",
+              "isa_value": "",
+              "type": "",
+              "tag_type": "",
+              "external_uri": "",
+              "external_id": ""
+            },
+            {
+              "spark_id": "b2c735ad-f425-5bac-96fb-d10158910da0",
+              "uuidv5": "b2c735ad-f425-5bac-96fb-d10158910da0",
+              "title": "Crime and Public Safety",
+              "slug": "crime-publicsafety",
+              "path": "fts/crime-publicsafety",
+              "isa_value": "",
+              "type": "",
+              "tag_type": "",
+              "external_uri": "",
+              "external_id": ""
+            }
+          ],
+          "wp__tags": [
+            {
+              "spark_id": "37a9e60f-0ba3-51e7-aa79-0ca6b157989a",
+              "uuidv5": "37a9e60f-0ba3-51e7-aa79-0ca6b157989a",
+              "title": "Echo Park",
+              "slug": "echo-park",
+              "path": "fts/us/ca/los-angeles-county/la-los-angeles-county/echo-park",
+              "isa_value": "",
+              "type": "",
+              "tag_type": "",
+              "external_uri": "",
+              "external_id": ""
+            },
+            {
+              "spark_id": "b2c735ad-f425-5bac-96fb-d10158910da0",
+              "uuidv5": "b2c735ad-f425-5bac-96fb-d10158910da0",
+              "title": "Crime and Public Safety",
+              "slug": "crime-publicsafety",
+              "path": "fts/crime-publicsafety",
+              "isa_value": "",
+              "type": "",
+              "tag_type": "",
+              "external_uri": "",
+              "external_id": ""
+            }
+          ],
+          "tags": [
+            {
+              "spark_id": "37a9e60f-0ba3-51e7-aa79-0ca6b157989a",
+              "uuidv5": "37a9e60f-0ba3-51e7-aa79-0ca6b157989a",
+              "title": "Echo Park",
+              "slug": "echo-park",
+              "path": "fts/us/ca/los-angeles-county/la-los-angeles-county/echo-park",
+              "isa_value": "",
+              "type": "",
+              "tag_type": "",
+              "external_uri": "",
+              "external_id": ""
+            },
+            {
+              "spark_id": "b2c735ad-f425-5bac-96fb-d10158910da0",
+              "uuidv5": "b2c735ad-f425-5bac-96fb-d10158910da0",
+              "title": "Crime and Public Safety",
+              "slug": "crime-publicsafety",
+              "path": "fts/crime-publicsafety",
+              "isa_value": "",
+              "type": "",
+              "tag_type": "",
+              "external_uri": "",
+              "external_id": ""
+            }
+          ],
+          "fn__legacy_type": "article",
+          "fn__story_type": "Partner",
+          "third_party_canonical_url": "",
+          "origination_station": "KTTV",
+          "original_post_canonical_url": "",
+          "fn__additional_authors": [],
+          "shared_shows": [],
+          "vanity_urls": [],
+          "short_urls": [""],
+          "original_post": {
+            "original_post_id": "",
+            "original_post_uuidv5": "",
+            "original_post_share": "",
+            "original_external_post_type": ""
+          },
+          "urls": {
+            "url": "foxla.com/news/echo-park-shooting-april-26-2024",
+            "category": {
+              "slug": "news",
+              "spark_id": "66f5255e-1ecd-5b30-acd6-755863f5988e"
+            },
+            "slug": "echo-park-shooting-april-26-2024",
+            "original_publisher": "",
+            "original_url": "",
+            "original_publish_date": ""
+          },
+          "id": "441ec12f-0b80-534f-b632-0218d33ceaf5",
+          "spark_id": "441ec12f-0b80-534f-b632-0218d33ceaf5",
+          "uuidv5": "441ec12f-0b80-534f-b632-0218d33ceaf5",
+          "fn__type": "articles",
+          "last_modified_date": "2024-04-27T08:49:16-07:00",
+          "last_published_date": "2024-04-27T08:49:16-07:00",
+          "created_date": "2024-04-27T08:49:17-07:00",
+          "publication_date": "2024-04-27T08:49:16-07:00",
+          "origination_modified_date": "2024-04-27T08:49:16-07:00",
+          "wp__origin": {
+            "source": "tiger-cms",
+            "site": "cms.foxla.com",
+            "environment": "production",
+            "blog_id": 1,
+            "post_id": 760472,
+            "post_type": "post",
+            "post_status": "publish"
+          },
+          "post_status": "publish",
+          "published": true,
+          "articleId": "",
+          "components": [
+            {
+              "content": {
+                "alignment": "left",
+                "format": "html",
+                "text": "<p>A 30-year-old man was wounded in what police said was a <a href=\"https://www.foxla.com/tag/crime-publicsafety\" target=\"_blank\">gang-related shooting</a> in <a href=\"https://www.foxla.com/tag/us/ca/los-angeles-county/la-los-angeles-county/echo-park\" target=\"_blank\">Echo Park</a> and authorities Saturday are investigating the circumstances surrounding the shooting.</p>"
+              },
+              "content_type": "text"
+            },
+            {
+              "content": {
+                "alignment": "left",
+                "format": "html",
+                "text": "<p>Officers from the Los Angeles Police Department's Northeast Division responded at approximately 11:40 p.m. Friday to Sunset Boulevard and Alvarado Street regarding a shots fired call. </p>"
+              },
+              "content_type": "text"
+            },
+            {
+              "content": {
+                "alignment": "left",
+                "format": "html",
+                "text": "<p>Upon arrival, the victim told them he was walking down Sunset when an unknown assailant approached him on foot, shot him and ran away, said an LAPD spokesman.</p>"
+              },
+              "content_type": "text"
+            },
+            {
+              "content": {
+                "alignment": "left",
+                "format": "html",
+                "text": "<p><strong>SUGGESTED:</strong></p>"
+              },
+              "content_type": "text"
+            },
+            {
+              "content": {
+                "ordered": false,
+                "items": [
+                  {
+                    "content": {
+                      "title": "<a href=\"https://www.foxla.com/news/marine-who-pled-guilty-in-planned-parenthood-firebombing-also-considered-attack-at-dodger-stadium\" target=\"_blank\">Marine who pled guilty in OC Planned Parenthood firebombing also considered attack at Dodger Stadium</a>"
+                    },
+                    "content_type": "list_item"
+                  },
+                  {
+                    "content": {
+                      "title": "<a href=\"https://www.foxla.com/news/new-social-club-opening-in-echo-park-helps-la-newcomers-build-connections\" target=\"_blank\">New social club opening in Echo Park helps LA newcomers build connections</a>"
+                    },
+                    "content_type": "list_item"
+                  },
+                  {
+                    "content": {
+                      "title": "<a href=\"https://www.foxla.com/news/6-la-taco-stands-hit-by-armed-robbers-in-one-night\" target=\"_blank\">6 LA taco stands hit by armed robbers in less than 2 hours</a>"
+                    },
+                    "content_type": "list_item"
+                  }
+                ]
+              },
+              "content_type": "list"
+            },
+            {
+              "content": {
+                "alignment": "left",
+                "format": "html",
+                "text": "<p>The victim was taken to a hospital in stable condition.</p>"
+              },
+              "content_type": "text"
+            },
+            {
+              "content": {
+                "alignment": "left",
+                "format": "html",
+                "text": "<p>There was no suspect description available. No further information is available at this time.</p>"
+              },
+              "content_type": "text"
+            }
+          ],
+          "title": "Echo Park gang-related shooting leaves 1 injured, police say",
+          "canonical_url": "foxla.com/news/echo-park-shooting-april-26-2024",
+          "article_slug": "echo-park-shooting-april-26-2024",
+          "vanity_slugs": [],
+          "presentation_type": "article",
+          "fn__syndication_info": [],
+          "fn__stock_ticker_symbols": "",
+          "post_version": 1048576,
+          "content_type": "spark_post",
+          "fn__site_search": false,
+          "stocks": [],
+          "meta": {
+            "chartbeat": {
+              "title": "Echo Park gang-related shooting leaves 1 injured, police say",
+              "viewID": "/news/echo-park-shooting-april-26-2024",
+              "section": "news",
+              "authors": []
+            },
+            "segment": {
+              "title": "Echo Park gang-related shooting leaves 1 injured, police say",
+              "page_content_type": "articles",
+              "page_content_type_of_story": "Partner"
+            }
+          }
+        }
+      ]
+    }
+  }
+]
