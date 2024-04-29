@@ -1,0 +1,173 @@
+{
+  "items": [
+    {
+      "article_slug": "kansas-zoo-expecting-5-new-elephant-calves-we-are-extremely-excited-for-2025",
+      "branding": {
+        "advertorial": false,
+        "fn__campaign_id": "",
+        "fn__disclaimer": "",
+        "fn__indicator": "",
+        "fn__sponsor_logo": null,
+        "fn__sponsor_name": ""
+      },
+      "canonical_url": "foxla.com/news/kansas-zoo-expecting-5-new-elephant-calves-we-are-extremely-excited-for-2025",
+      "category": {
+        "path": "fts/news",
+        "slug": "news",
+        "title": "News"
+      },
+      "component_type": "news_article",
+      "created_date": "2024-04-19T15:08:20-07:00",
+      "description": "A Kansas zoo announced that it’s not expecting one, not three, but five elephant calves in 2025. ",
+      "is_breaking_news": false,
+      "is_featured": false,
+      "is_published": true,
+      "last_modified_date": "2024-04-21T08:32:56-07:00",
+      "last_published_date": "2024-04-19T15:13:09-07:00",
+      "meta_description": "",
+      "meta_title": "",
+      "original_post_canonical_url": "livenowfox.com/news/kansas-zoo-expecting-5-new-elephant-calves-we-are-extremely-excited-for-2025",
+      "origination_modified_date": "2024-04-19T15:13:09-07:00",
+      "origination_station": "LNFX",
+      "pill": "",
+      "presentation_type": "article",
+      "primary_tag": [],
+      "publication_date": "2024-04-19T15:08:18-07:00",
+      "share": [
+        "WAGA",
+        "KTBC",
+        "WFLD",
+        "KDFW",
+        "WJBK",
+        "WOGX",
+        "KRIV",
+        "KTTV",
+        "WITI",
+        "KMSP",
+        "WWOR",
+        "WNYW",
+        "WOFL",
+        "WTXF",
+        "KSAZ",
+        "KTVU",
+        "KCPQ",
+        "WTVT",
+        "WTTG"
+      ],
+      "shared_category": [],
+      "shared_shows": [],
+      "shared_tags": [
+        {
+          "external_id": "",
+          "external_uri": "",
+          "isa_value": "",
+          "path": "fts/pets-animals",
+          "slug": "pets-animals",
+          "spark_id": "6cc2849c-be7a-5acf-84eb-2a5fddb35f05",
+          "tag_type": "",
+          "title": "Pets and Animals",
+          "type": "",
+          "uuidv5": "6cc2849c-be7a-5acf-84eb-2a5fddb35f05"
+        }
+      ],
+      "short_title": "Kansas zoo announces 5 of their elephants are pregnant: ‘We are extremely excited for 2025’",
+      "sources": [
+        {
+          "canonical_url": "foxla.com/source/fox-tv-stations",
+          "label": "FOX TV Stations",
+          "slug": "fox-tv-stations",
+          "url": "http://foxtv.com"
+        }
+      ],
+      "spark_id": "25fabd15-fb1b-5cb5-9bca-f81a2a712a78",
+      "story_type": "Digital Original",
+      "tags": [
+        {
+          "path": "fts/pets-animals",
+          "slug": "pets-animals",
+          "spark_id": "6cc2849c-be7a-5acf-84eb-2a5fddb35f05",
+          "title": "Pets and Animals"
+        }
+      ],
+      "thumbnail": {
+        "content": {
+          "alt": "",
+          "caption": "Sedgwick County Zoo in Kansas is expecting five new calves to be born in 2025.",
+          "url": "https://static.foxla.com/www.foxla.com/content/uploads/2024/04/Elephant-still.jpg"
+        },
+        "content_type": "image"
+      },
+      "title": "Kansas zoo announces 5 of their elephants are pregnant: ‘We are extremely excited for 2025’",
+      "vanity_slugs": [],
+      "vanity_urls": []
+    },
+    {
+      "air_date": "2023-12-11T15:05:37Z",
+      "anvato_id": "1379664",
+      "branding": {
+        "advertorial": false,
+        "fn__campaign_id": "",
+        "fn__disclaimer": "",
+        "fn__indicator": "",
+        "fn__sponsor_name": ""
+      },
+      "component_type": "video",
+      "created_date": "2023-12-11T15:05:37Z",
+      "description": "The week was off to a rough start for business owners at a strip mall in the Westlake District.",
+      "duration": "1:42",
+      "episode": "",
+      "expiration_date": "2033-12-08T15:05:37Z",
+      "free_available_end_date": "2033-12-08T15:05:37Z",
+      "free_available_start_date": "2023-12-11T15:05:37Z",
+      "language": "en",
+      "last_modified_date": "2023-12-11T15:14:09Z",
+      "last_published_date": "2023-12-11T15:05:37Z",
+      "original_import_date": "2023-12-11T15:20:26Z",
+      "origination_modified_date": "2023-12-11T15:14:09Z",
+      "origination_station": "kttv",
+      "playback_url": "https://tkx.mp.lura.live/rest/v2/mcp/video/1379664.m3u8?anvack=p8Q6dKlN5pUkGOMS5JFMNDzbilOg7o4n&eud=7da6Kt%2BRyCsi3i36yYqXG6%2Fubv%2Bxg45nDvLvi0UX8lWIewzhlJLPd3VvLOf7Jp8myiiK9NWC9wr3eQXYw9pjZg%3D%3D",
+      "program_name": "Crime / Public Safety",
+      "publication_date": "2023-12-11T15:05:37Z",
+      "rating": "Not Rated",
+      "realm": "EPFOX",
+      "season": "0",
+      "spark_id": "30487b18-511a-5e39-ba72-f2a98cccb810",
+      "subratings": "",
+      "tags": [
+        {
+          "id": "95e92702-8a73-5d9c-8fd4-359003377001",
+          "label": "California",
+          "path": "fts/us/ca",
+          "slug": "ca",
+          "spark_id": "95e92702-8a73-5d9c-8fd4-359003377001",
+          "title": "California"
+        },
+        {
+          "id": "f51df224-805d-5237-934d-910ea4f17ccf",
+          "label": "Crime and Public Safety",
+          "path": "fts/crime-publicsafety",
+          "slug": "crime-publicsafety",
+          "spark_id": "f51df224-805d-5237-934d-910ea4f17ccf",
+          "title": "Crime and Public Safety"
+        },
+        {
+          "id": "4fc5860a-3775-5ddd-9e52-911784337dbb",
+          "label": "News",
+          "path": "fts/news",
+          "slug": "news",
+          "spark_id": "4fc5860a-3775-5ddd-9e52-911784337dbb",
+          "title": "News"
+        }
+      ],
+      "thumbnail": "https://m107833-mcdn.mp.lura.live/iupl/DE9/EA5/DE9EA55BEB1BBB59E85185A329E69EDB.jpg?Expires=2082758400&KeyName=mcpkey1&Signature=-ctMIX4PN8aB9ie27v_4Nj_krG4",
+      "title": "Burglars hit strip mall in Westlake District",
+      "video_type": "Clip",
+      "wp__category": {
+        "path": "fts/news",
+        "slug": "news",
+        "spark_id": "fd85bbca-03c3-5e05-8669-1eadca999c55",
+        "title": "News"
+      }
+    }
+  ]
+}
